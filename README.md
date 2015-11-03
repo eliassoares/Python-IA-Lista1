@@ -1,4 +1,4 @@
-# PythonLista1IA
+#Python-IA-Lista1
 Lista de Exercício de programação de Inteligência Artificial 2015-2.
 
 Elias Soares
